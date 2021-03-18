@@ -1,0 +1,5 @@
+numpy==1.19.1
+pillow==7.2.0
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==1.6.0
+torchvision==0.7.0
